@@ -1,14 +1,5 @@
-# CODSOFT Java Development Internship – Task Repository
+# Java Development Practice  – Basic to advance
 
-This repository contains all the tasks completed as part of the **Java Development Internship** offered by **CODSOFT**. The internship provides practical, hands-on experience in Java programming by assigning real-world inspired tasks aimed at strengthening programming and software development skills.
-
-## 🧑‍💻 Internship Overview
-
-- **Organization:** CODSOFT  
-- **Internship Domain:** Java Development  
-- **Duration:** 4 weeks  
-- **Mode:** Remote  
-- **Tasks Completed:** 4 out of 3 required  
 - **Tools/Tech:** Java, OOP, API Integration, Git, GitHub, Console-based applications
 
 ---
@@ -63,21 +54,6 @@ A Java program that:
 > 💡 API Key used: `*********` 
 > 📦 External library: `org.json` (for JSON parsing)
 
----
-
-## 📸 Video Demonstration
-
-- Each task is accompanied by a short video demo showcasing functionality and code explanation.
-- Videos are also uploaded to **LinkedIn** as part of internship proof and portfolio development.
-- Make sure to tag `#codsoft`, `#internship`, and `#webdevelopment` in your LinkedIn post for better reach.
-
----
-
-## 🔗 LinkedIn & Submission Info
-
-- A submission form link will be provided by CODSOFT via email.
-- The GitHub repository link (this one) will be submitted in that form.
-- Make sure your LinkedIn profile is updated with this experience.
 
 ---
 
@@ -85,9 +61,6 @@ A Java program that:
 
 **Name:** Saisa Koirala  
 **GitHub:** [github.com/SaisaKoirala](https://github.com/SaisaKoirala)  
-**Internship Domain:** Java Development  
-**Repository:** [CODSOFT](https://github.com/SaisaKoirala/CODSOFT)
 
 ---
 
-> ⭐ Thank you CODSOFT for this great opportunity to build and demonstrate real-world Java skills!
